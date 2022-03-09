@@ -1,0 +1,10 @@
+01-02-2022 15:38:25 - INFO - rosel_window - windows - Окно Roseltorg открыто
+01-02-2022 15:38:46 - INFO - rosel_window - authorization - Начинаем авторизацию для "79253943707"
+01-02-2022 15:39:12 - INFO - rosel_window - authorization - Авторизация прошла успешно!
+01-02-2022 15:39:13 - INFO - rosel_window - parsing - Парсер запущен! Частота парсинга - 20 сек.
+01-02-2022 15:39:13 - INFO - rosel_window - parsing - Начинаем парсинг (первый запуск)
+01-02-2022 15:40:16 - INFO - rosel_window - parsing - Парсинг окончен. Найдено 16 записей. Новых - 10
+01-02-2022 15:40:36 - INFO - rosel_window - parsing - Начинаем парсинг (парсим до 0322200018822000001)
+01-02-2022 15:40:37 - INFO - rosel_window - parsing - Парсинг окончен. Найдено 0 записей. Новых - 0
+01-02-2022 15:40:43 - INFO - rosel_window - parsing - Парсер остановлен!
+01-02-2022 15:40:43 - INFO - rosel_window - windows - Окно Roseltorg закрыто
